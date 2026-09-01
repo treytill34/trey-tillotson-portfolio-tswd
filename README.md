@@ -11,22 +11,19 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! My name is Trey, and I am a second-year Masters of Arts Management student. I have worked in arts development and archivism, as well as have a history as a freelance musician and educator.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+1. Creative ways to display information
+2. Best practices in data visualization
+3. How to easily communicate a story through a webpage
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+Working in development, it is important to be able to accurately and easily share information to donors and other individuals.
 
 # Portfolio
+1. Assignment
+2. Assignment
+3. Final Project
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
