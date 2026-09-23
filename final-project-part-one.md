@@ -4,13 +4,14 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+For my project, I want to dive into some giving and donating habits of younger generations, especially emphasizing demographics of Gen Z and people under 40. Through multiple sources, I have compiled helpful data about U.S. wealth distribution and Gen Z giving habits compared to other adults.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+Outline
 
-Text here...
+> Assumption: Gen Z is not donating. The wealth distribution in the U.S. has people under 40 with just 6.7% of total wealth distribution. This number has decreased since 1990, when people under 40 had 11.8% of total wealth. (Insert two pie charts with the following citations: "Distribution of Household Wealth in the U.S. since 1989." _Board of Governors of the Federal Reserve System._ Accessed September 2026. https://www.federalreserve.gov/releases/z1/dataviz/dfa/distribute/chart/#range:1989.3,2023.4;quarter:138;series:Net%20worth;demographic:age;population:all;units:levels. AND Reed, Eric. "Wealth Distribution in the U.S. by Generation." _SmartAsset_ Updated April 24, 2026. https://smartasset.com/financial-advisor/wealth-by-generation#citations.)
+> However, Gen Z is both donating money and showing up to support their causes. According to a report made in partnership of GoFundMe and Giving Tuesday, Gen Z (ages 18-29) was more likely give in every capacity: money, time, registered and unregistered organizations, advocating for causes, etc. (Insert dual bar charts comparing Gen Z to other adults ages 30-85, Citation: "Gen Z is More Generous than You Think." _GoFundMePro_ 2026. https://pro.gofundme.com/c/resources/gen-z-nonprofit-report/.)
+> According to a blog by Candid and data from Giving USA, in 2024, Gen Z's top organizations to give to (in order) are Places of Worship, U.S. Health/Medical, and Faith-Based Organizations. Perhaps a surprise to some, between 2021 and 2024, Gen Z was the only generation noted to significantly increase their giving to Fatih-Based Organizations (and increase of 133%). (Insert dual bar chart with citation: Uchida, Kyoko. "Shifts in Giving Across Generations: What Motivates Donors to Give?" _Candid_ May 6, 2025. https://candid.org/blogs/what-motivates-donors-charitable-giving-across-generations-trends/) This increase could be due in part to Gen Z entering the workforce in those years, but this is still a significant jump. In the same report, 50% of Gen Z was noted to attend a religious service in person once a week or almost every week, compared to the 29% of Gen X and 31% of Boomers.
+> Takeaways: 1) Gen Z IS ready to give, but many giving correspondences favor older audiences. 2) Gen Z is much more nuanced than given credit. To reach these audiences, fundraisers must give appropriate thought toward the next generation of philanthropists.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
