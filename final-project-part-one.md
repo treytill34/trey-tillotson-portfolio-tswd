@@ -16,10 +16,15 @@ Outline
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+<img width="768" height="1024" alt="D2C80170-FB6E-4733-A5A3-96B6E99E3643_1_105_c" src="https://github.com/user-attachments/assets/a6d7b8c9-807f-40e8-ac6c-a2a6dfabd2d6" />
+<img width="768" height="1024" alt="454081C3-E34E-442D-9211-959F760A37F6_1_105_c" src="https://github.com/user-attachments/assets/56f196e4-abeb-4390-bd57-1739454d30d7" />
+![70926295-EEE0-444B-A238-1B99E852B683_4_5005_c](https://github.com/user-attachments/assets/55b11a21-b917-4e7b-8014-5be8f34c512a)
+
+
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> A couple of paragraphs that 
+document your data source(s), and an explanation of how you plan on using your data. 
 
 Text here...
 
