@@ -1,68 +1,27 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+See my project on shorthand: https://carnegiemellon.shorthandstories.com/gen-z-and-philanthropy/index.html
 
 # User research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+I received critiques from three Heinz College students in the class. Although my ultimate target audience would be fundraisers, these intelligent individuals know what to look for in the course. Additionally, this will likely only be presented to these students next week.
 
-Text here!
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+I was looking for critique of graphics and narrative as applicable.
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+The critiques left me more confident in my narrative. I had points that I was slightly unsure of, wondering if the information was too extra, but all three people were open to the information I presented and the story I told.
+They highly encouraged that I look more at color in the presentation, asking to point out Gen Z more distinctly in every chart when possible. Although there are limits to my ability to do this, it was helpful and did cause me to change some of my preexisting work.
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+These critiques were made in time to make edits in part II. I changed the color scheme of the graphics to hold onto one constant theme.
 
 ## References
 _List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+No Ai was used in Part II.
