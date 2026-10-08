@@ -13,7 +13,7 @@ Text here!
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My audience is fundraisers of America. These fundraisers would likely be somewhat older (just old enough to stereotype Gen Z and not fully relate with them) and therefore naturally out of touch with younger generation
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
