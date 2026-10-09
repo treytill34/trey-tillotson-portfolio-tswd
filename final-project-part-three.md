@@ -13,12 +13,13 @@ Text here!
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-My audience is fundraisers of America. These fundraisers would likely be somewhat older (just old enough to stereotype Gen Z and not fully relate with them) and therefore naturally out of touch with younger generation
+My audience is fundraisers of America. These fundraisers would likely be somewhat older (just old enough to stereotype Gen Z and not fully relate with them) and therefore naturally out of touch with the younger generation. The goal is to convince seasoned fundraisers to focus more on Gen Z now, as they are the future of philanthropy and have shown potential to be significant major donors. However, they behave differently than modern donors and cannot be treated the same way as Boomers and Gen X.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+The big consistent point of my designs is the color red being used for emphasis. The graphics used (pie charts and dual bar charts) intentionally use red to either highlight Gen Z compared to other generations or to emphasize a more current time. Red is also the highlight color throughout the webpage, emphasizing key headings.
+The pie charts were helpful when comparing money held by each generation, as it was necessary to 
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
