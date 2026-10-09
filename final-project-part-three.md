@@ -35,6 +35,6 @@ No AI was used throughout this project.
 # Final thoughts
 > You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+I wonder if I should have added more data somewhere in this topic. I have five visualizations, and I ultimately bring home my point in a well-constructed manner. I also like how the website looks, as it makes it somewhat interactive to go through.
 
 
