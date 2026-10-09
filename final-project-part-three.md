@@ -10,7 +10,7 @@ Shorthand link: https://carnegiemellon.shorthandstories.com/gen-z-and-philanthro
 
 One change I made since completing part II was editing some of my graphs. Some of my charts, which I embedded, had black text and did not show well over the black background. I downloaded the images from Datawrapper as images to more easily show them.
 
-I added more information to Shorthand. The additional information gave better context to the data provided, making a clearer story for users. I emphasized that social differences between Gen Z and Boomers might mean different outcomes are needed from fundraisers (although these social differences were not the focus of the project. My focus is convincing fundraisers that Gen Z _is_ worth their time.)
+I added more information to Shorthand. The additional information gives better context to the data provided, making a clearer story for the audience. I emphasized that social differences between Gen Z and Boomers might mean different outcomes are needed from fundraisers (although these social differences were not the focus of the project. My focus is convincing fundraisers that Gen Z _is_ worth their time.) This addition also filled out the rest of the website and completed the narrative I was trying to tell.
 
 
 ## The audience
@@ -22,7 +22,8 @@ My audience is fundraisers of America. These fundraisers would likely be somewha
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
 The big consistent point of my designs is the color red being used for emphasis. The graphics used (pie charts and dual bar charts) intentionally use red to either highlight Gen Z compared to other generations or to emphasize a more current time. Red is also the highlight color throughout the webpage, emphasizing key headings.
-The pie charts were helpful when comparing money held by each generation, as it was necessary to show the proportions of wealth instead of focusing on amount of money separately to put into frame the difference.
+
+All of my graphics relied on comparing points to one another. The pie charts were helpful in showing proportion of wealth (showing the money itself wouldn't work without adjusting for inflation). The dual bar charts also achieved this comparison goal.
 
 ## References
 > **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
